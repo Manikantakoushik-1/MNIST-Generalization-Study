@@ -3,6 +3,11 @@
 
 ---
 
+> A focused study on generalization in deep learning
+
+> Demonstrating overfitting and regularization dynamics on MNIST.
+
+
 ## 📌 Overview
 
 This project explores **model generalization** by intentionally:
